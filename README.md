@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-This portfolio shows all the work I did in Data Analytics I at Southern Utah University. All the work was completed in Google Colab using Python. Each assignment is linked for viewing purposes. 
+Hello, my name is Britt. I am a student majoring in Finance, Accounting, and Management. This portfolio shows all the work I did in Data Analytics I at Southern Utah University. All the work was completed in Google Colab using Python. Each assignment is linked for viewing purposes. 
 
 ## My Résumé
 - [Résumé](https://colab.research.google.com/drive/1i0l3Vhpi4ehi0mWy-RCNI7-6V6e_XY-5?usp=sharing)
